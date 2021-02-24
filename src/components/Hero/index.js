@@ -16,7 +16,7 @@ const Hero = () => {
             <HeroContent>
                  <HeroItems>
                     <HeroH1> Your Body Is our Canvas </HeroH1>
-                    <HeroP> Award Winning Designes </HeroP>
+                    <HeroP> Award Winning Tattoo Studio </HeroP>
                     <HeroBtn> Book Appointments </HeroBtn>
                 </HeroItems>
             </HeroContent>

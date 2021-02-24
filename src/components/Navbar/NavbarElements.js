@@ -37,9 +37,9 @@ export const Nav = styled.nav`
         transform: translate(-175%, 100%);
         font-weight: bold;
     }
-    `
+    `;
 
     export const Bars = styled(FaEyeDropper)`
     font-size: 2rem;
     transform: translate(-50%, -15%);
-    `
+    `;
